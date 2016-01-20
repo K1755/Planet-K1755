@@ -10,9 +10,9 @@ namespace Kotitehtävä2
     {
         static void Main(string[] args)
         {
-            int[] luvut = new int[5];
+            
 
-            Student[] students = Student[5];
+
         }
     }
 }
