@@ -11,7 +11,8 @@ namespace Kotitehtävä2
 
         public struct Students
         {
-            public string Names, Gender;
+            public string Names;
+            public string Gender;
             public int Age;
         }
         
